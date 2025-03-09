@@ -18,7 +18,10 @@ To address this challenge, the **Managing Director** decided to incorporate **Bu
 
 This project enables **data-driven decision-making** and helps AtliQ Grands to track their **progress** and **stay competitive** in the market.
 
-### [Live Dashboard Link]()
+### IMP Links
+## [Live Dashboard Link]()
+## [Presentation Video Link]()
+## [LinkedIn Link]()
 
 ## Company Summary: AtliQ Hardware
 This project aims to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence.
@@ -33,6 +36,8 @@ Those properties are in Delhi, Mumbai, Hyderabad, and Bangalore.
 
 
 ## Data Model
+
+![Data Model](https://github.com/bharat-chotwani/Power-BI-Hospitality-Analytics-Project/blob/6dfe2448307484e1149801db23363852712093a0/Hospitality_Data_Model.png)
 
 The datasets contain Two types of tables -->
 
@@ -126,11 +131,19 @@ The **Home view** provides access to all available view buttons, allowing users 
 ### Home View
 A source page providing easy page navigation access to all views, with dedicated support pane and information manual.
 
+![Home View](https://github.com/bharat-chotwani/Power-BI-Hospitality-Analytics-Project/blob/6dfe2448307484e1149801db23363852712093a0/Hotel_Home.png)
+
 ### 1. Overview View
 Here you will find an overview of all the metrics.
+
+![Overview](https://github.com/bharat-chotwani/Power-BI-Hospitality-Analytics-Project/blob/6dfe2448307484e1149801db23363852712093a0/Hotel_Overview.png)
 
 ### 2. Revenue View
 This page tells you about the revenue and it's breakdown.
 
+![Revenue View](https://github.com/bharat-chotwani/Power-BI-Hospitality-Analytics-Project/blob/6dfe2448307484e1149801db23363852712093a0/Hotel_Revenue.png
+)
+
 ### 3. Booking View
 This page tells you about the Bookings.
+![Booking View](https://github.com/bharat-chotwani/Power-BI-Hospitality-Analytics-Project/blob/6dfe2448307484e1149801db23363852712093a0/Hotel_Booking.png)
