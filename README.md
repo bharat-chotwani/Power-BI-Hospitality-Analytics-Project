@@ -19,8 +19,7 @@ To address this challenge, the **Managing Director** decided to incorporate **Bu
 This project enables **data-driven decision-making** and helps AtliQ Grands to track their **progress** and **stay competitive** in the market.
 
 ### IMP Links
-## [Live Dashboard Link]()
-## [Presentation Video Link]()
+## [Live Dashboard Link](https://shorturl.at/FJEoZ)
 ## [LinkedIn Link]()
 
 ## Company Summary: AtliQ Hardware
